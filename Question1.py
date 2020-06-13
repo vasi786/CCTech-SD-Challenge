@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jun 12 06:19:14 2020
+Created on Thu Jun 12 06:19:14 2020 // I dont think it is created on Jun 12
 CCTech June 2020 Software Developer Hiring Challenge
 Question 1:
 @author: venu Angirekula
